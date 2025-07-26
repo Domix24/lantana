@@ -1,4 +1,4 @@
-@import "~bootstrap/scss/bootstrap";
+@use "~bootstrap/scss/bootstrap";
 
 @mixin font($font-family, $font-file, $font-style) {
     @font-face {
